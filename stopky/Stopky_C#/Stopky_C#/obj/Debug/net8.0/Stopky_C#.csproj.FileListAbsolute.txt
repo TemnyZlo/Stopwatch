@@ -1,0 +1,14 @@
+U:\stazene\sites\c#\stopky\Stopky_C#\Stopky_C#\obj\Debug\net8.0\Stopky_C#.GeneratedMSBuildEditorConfig.editorconfig
+U:\stazene\sites\c#\stopky\Stopky_C#\Stopky_C#\obj\Debug\net8.0\Stopky_C#.AssemblyInfoInputs.cache
+U:\stazene\sites\c#\stopky\Stopky_C#\Stopky_C#\obj\Debug\net8.0\Stopky_C#.AssemblyInfo.cs
+U:\stazene\sites\c#\stopky\Stopky_C#\Stopky_C#\obj\Debug\net8.0\Stopky_C#.csproj.CoreCompileInputs.cache
+U:\stazene\sites\c#\stopky\Stopky_C#\Stopky_C#\bin\Debug\net8.0\Stopky_C#.exe
+U:\stazene\sites\c#\stopky\Stopky_C#\Stopky_C#\bin\Debug\net8.0\Stopky_C#.deps.json
+U:\stazene\sites\c#\stopky\Stopky_C#\Stopky_C#\bin\Debug\net8.0\Stopky_C#.runtimeconfig.json
+U:\stazene\sites\c#\stopky\Stopky_C#\Stopky_C#\bin\Debug\net8.0\Stopky_C#.dll
+U:\stazene\sites\c#\stopky\Stopky_C#\Stopky_C#\bin\Debug\net8.0\Stopky_C#.pdb
+U:\stazene\sites\c#\stopky\Stopky_C#\Stopky_C#\obj\Debug\net8.0\Stopky_C#.dll
+U:\stazene\sites\c#\stopky\Stopky_C#\Stopky_C#\obj\Debug\net8.0\refint\Stopky_C#.dll
+U:\stazene\sites\c#\stopky\Stopky_C#\Stopky_C#\obj\Debug\net8.0\Stopky_C#.pdb
+U:\stazene\sites\c#\stopky\Stopky_C#\Stopky_C#\obj\Debug\net8.0\Stopky_C#.genruntimeconfig.cache
+U:\stazene\sites\c#\stopky\Stopky_C#\Stopky_C#\obj\Debug\net8.0\ref\Stopky_C#.dll
